@@ -1,3 +1,5 @@
+// Neighboring Bitwise XOR
+
 #include <bits/stdc++.h>
 using namespace std;
 
